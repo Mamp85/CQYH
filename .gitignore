@@ -30,3 +30,17 @@ Client/client/UE3/Development/Src/Intermediate/
 Client/client/UE3/Development/Src/UnrealBuildTool/obj/Debug/
 # written by the script compiler (make); regenerated, and only when the compile has zero warnings
 Client/client/UE3/MMOGame/Script/Manifest.txt
+
+
+
+*.suo
+*.user
+*.vsidx
+*.db-wal
+*.db-shm
+*.openedb
+*.VC.db
+obj/
+binRelease/
+out/
+.vs/
